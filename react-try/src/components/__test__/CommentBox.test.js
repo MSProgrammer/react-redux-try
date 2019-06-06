@@ -23,7 +23,7 @@ it("Has a text area ", () => {
 });
 
 it("Has a Button", () => {
-  expect(wrapped.find("button").length).toEqual(1);
+  expect(wrapped.find("button").length).toEqual(2);
 });
 
 describe("the text area", () => {
