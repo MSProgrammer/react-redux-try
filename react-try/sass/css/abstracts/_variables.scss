@@ -1,0 +1,13 @@
+$padding: 15px;
+$borders: 15px;
+
+$desktop: 9800px;
+///@extend Display Colors
+$color: rgb(82, 75, 146);
+$font-color: rgb(255, 115, 0);
+$colors: (
+  primary: #b33e3e00,
+  primary-light: lighten(#3a061b, 90%),
+  primary-dark: darken(#f10000, 40%),
+  accent: #fff8bb
+);
